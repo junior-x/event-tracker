@@ -1,3 +1,47 @@
+# Event-Tracker
+React Native App
+
+# 
+
+ <h1 align="center">Task Chalendar</h1>
+ <p align="center">🚀</p>
+ 
+ <p align="center"><em>Chalendar developed with ReactJS  wwith TypeScript and Recoil for the states</p>
+
+ ![App Preview](/assets/print/03.PNG)
+
+
+<p align="center"><em>Links para o SITE && PROJETO </p>
+
+<p align="center">
+    http://event-tracker-teal.vercel.app/    https://www.figma.com/@juniorx
+</p>
+
+<!-- <p align="center" float="left">
+    <img src="/assets/screen/react.png" width="72" /> 
+    <img src="/assets/screen/Figma.svg" width="54" /> 
+</p> -->
+
+
+<p align="center">
+ <a href="#prototipo">STEPS</a> •
+</p>
+
+
+<p align="center">Deevelop phases.</p>
+
+----
+
+ ![App Preview](/assets/print/02.PNG)
+
+----
+
+ ![App Preview](/assets/print/03.PNG)
+
+----
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
